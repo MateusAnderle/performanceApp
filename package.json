@@ -6,19 +6,24 @@
     "start": "expo start --dev-client",
     "android": "expo run:android",
     "ios": "expo run:ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "server": "yarn json-server -d 750 -w -H 10.95.3.206 -p 3333 ./src/api/server.js"
   },
   "dependencies": {
     "expo": "~46.0.9",
     "expo-splash-screen": "~0.16.2",
     "expo-status-bar": "~1.4.0",
+    "lodash": "^4.17.21",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-native": "0.69.5",
     "react-native-web": "~0.18.7"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "json-server": "^0.17.0",
+    "react-devtools": "^4.25.0",
+    "react-native-bundle-visualizer": "^3.1.1"
   },
   "private": true
 }
