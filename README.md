@@ -12,7 +12,7 @@ The **_PerformanceApp_** is a project built with React Native and Expo with the 
 ---
 
 <div align="center" >
-<img src="/assets/images/homescreen.gif" width="300">
+<iframe width="300" src="https://www.youtube.com/shorts/xi-qn6hG1EI" frameborder="0"></iframe>
 </div>
 
 ---
