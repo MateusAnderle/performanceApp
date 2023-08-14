@@ -11,6 +11,10 @@ The **_PerformanceApp_** is a project built with React Native and Expo with the 
 
 ---
 
+https://github.com/MateusAnderle/performanceApp/assets/100309091/e84336b3-5781-4db5-8583-88289f6dd42f
+
+---
+
 ## :information_source: Motive
 
 The project was created with the intention of testing the functionalities of React hooks to address performance issues and unnecessary rendering/calculations in interfaces. It utilizes the useMemo and useCallback hooks to enhance component performance and calculations, as well as memoization to keep certain components unchanged.
