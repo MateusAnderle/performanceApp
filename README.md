@@ -80,7 +80,7 @@ This project was developed using the following technologies
 - Expo installation is necessary [Expo](https://expo.dev/)
 - Execution - Open the project folder with an IDE (Vscode) or simply open the terminal in the project folder and run the command below
 
-First of all, run the json-server:
+### First of all, run the json-server:
 
 ```bash
 npm run server
