@@ -39,7 +39,7 @@ In this project, both animations and glassmorphism were employed to add a touch 
 - Expo Go(Mobile) opcional.
 - Node.js
 - React-Native
-- Yarn(ou NPM)
+- NPM
 
 ---
 
@@ -68,11 +68,10 @@ This project was developed using the following technologies
   ```bash
    git clone https://github.com/MateusAnderle/performanceApp
   ```
-- Yarn installation is required according to your operating system. See how on the [Yarn](ttps://classic.yarnpkg.com/blog/2017/05/12/introducing-yarn/)
 - Install the dependencies:
   - Execute the command below inside the project folder
   ```bash
-    yarn
+    npm i
   ```
 - Installation of the emulator [Android Studio](https://developer.android.com/studio) or [XCode](https://developer.apple.com/xcode/resources/) and the required technologies mentioned in <a href="#minimum-requirements">Requirements</a>
 
