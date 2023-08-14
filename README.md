@@ -10,15 +10,6 @@ The **_PerformanceApp_** is a project built with React Native and Expo with the 
 </h3>
 
 ---
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
-
-<div align="center" >
-<iframe width="420" height="315"
-src="https://www.youtube.com/shorts/xi-qn6hG1EI">
-</iframe>
-</div>
-
----
 
 ## :information_source: Motive
 
