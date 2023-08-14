@@ -10,9 +10,7 @@ The **_PerformanceApp_** is a project built with React Native and Expo with the 
 </h3>
 
 ---
-
-https://github.com/MateusAnderle/performanceApp/assets/100309091/e84336b3-5781-4db5-8583-88289f6dd42f
-
+![homescreen](https://github.com/MateusAnderle/performanceApp/assets/100309091/a6b60565-0d9f-475e-83be-eaaf82fe7cd6)
 ---
 
 ## :information_source: Motive
