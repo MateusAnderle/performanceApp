@@ -10,9 +10,11 @@ The **_PerformanceApp_** is a project built with React Native and Expo with the 
 </h3>
 
 ---
+
 <div align="center" >
 <img src="https://github.com/MateusAnderle/performanceApp/assets/100309091/a6b60565-0d9f-475e-83be-eaaf82fe7cd6" width="300">
 </div>
+
 ---
 
 ## :information_source: Motive
